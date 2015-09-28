@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<domains>
+    <domain>
+        <url>www.google.de</url>
+        <name>Google</name>
+    </domain>
+    <domain>
+        <url>forum.magnuskruschwitz.de</url>
+        <name>Mein forum</name>
+    </domain>
+</domains>

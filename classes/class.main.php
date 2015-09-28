@@ -11,6 +11,11 @@ class main{
 
   }
 
+  public function fctGetFilehandler($sFile){
+      $filehandler = new filehandler($sFile);
+      return $filehandler;
+  }
+
   public function fctGetDomain(){
     $domain = new domain();
     return $domain;
